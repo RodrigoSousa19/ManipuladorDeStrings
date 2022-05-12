@@ -1,0 +1,7 @@
+C:\ws-vs2019\ManipuladorDeStrings\Teste_Console\bin\Debug\Teste_Console.exe.config
+C:\ws-vs2019\ManipuladorDeStrings\Teste_Console\bin\Debug\Teste_Console.exe
+C:\ws-vs2019\ManipuladorDeStrings\Teste_Console\bin\Debug\Teste_Console.pdb
+C:\ws-vs2019\ManipuladorDeStrings\Teste_Console\obj\Debug\Teste_Console.csproj.AssemblyReference.cache
+C:\ws-vs2019\ManipuladorDeStrings\Teste_Console\obj\Debug\Teste_Console.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\ManipuladorDeStrings\Teste_Console\obj\Debug\Teste_Console.exe
+C:\ws-vs2019\ManipuladorDeStrings\Teste_Console\obj\Debug\Teste_Console.pdb
